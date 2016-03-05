@@ -1,6 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Arvo:400,700italic);
+
 $body-bg: #ecf0f1;
+$font-family-serif:      'Arvo', Georgia, "Times New Roman", Times, serif;
 $navbar-default-bg: #f39c12;
 $navbar-default-link-color: white;
 $jumbotron-bg: #2ecc71;
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
